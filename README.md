@@ -28,7 +28,7 @@ Clone this repo to your local machine:
 
 bash
 Copy
-git clone https://github.com/yourusername/coworker-availability-matcher.git
+git clone https://github.com/Ibrahemtny/Social-Connector.git
 
 
 Set up Qt:
